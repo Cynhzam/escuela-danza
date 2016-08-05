@@ -1,0 +1,39 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+.section6 {
+	background-image: url("../img/shoes_!.jpg");
+	background-repeat: no-repeat;
+	background-position-x: 650px;
+	height: 450px;
+}
+iframe {
+	height: 300px;
+	width: 500px;
+}
+#name {
+	background-image: url("http://rexkirby.com/kirbyandson/images/name.svg");
+}
+#email {
+	background-image: url("http://rexkirby.com/kirbyandson/images/email.svg");
+}
+#message {
+	background-image: url("http://rexkirby.com/kirbyandson/images/comment.svg");
+}
+.tamaño {
+	background-repeat: no-repeat;
+	background-position-x:2%;
+	background-size: 10%;
+	height: 35px;
+	padding-left: 50px;
+	width: 350px;
+}
+.alto {
+	height: 150px;
+	padding-bottom: 100px; 
+}
+footer {
+	background-color: #030E1E;
+}

@@ -1,0 +1,13 @@
+.nosotros1 {
+	background-image: url("../img/dance_7.jpg");
+	background-repeat: no-repeat;
+	height: 500px;
+	padding: 200px;
+}
+.box-nosotros {
+	position: relative;
+	background-color: rgba(0,0,0,0.5);
+	height: 200px;
+	width: 500px;	
+}
+
